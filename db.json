@@ -1,0 +1,15 @@
+[
+    {
+	"title": "Virgin",
+	"body": "Lorem Ipsum",
+	"phone": "+1 888 555 1212",
+	"website": "http://www.example.com",
+	"terminal": [1,2,3],
+	"picture": {
+	    "small": "sm",
+	    "medium": "med",
+	    "large": "lg"
+	}
+    }
+]
+    
