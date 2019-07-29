@@ -3,9 +3,48 @@
 	{
 	    "id": 1,
 	    "title": "Virgin",
+	    "body": "Virgin Airlines",
+	    "phone": "+1 888 555 1212",
+	    "website": "http://www.virgin.com",
+	    "terminal": [1,2,3],
+	    "picture": {
+		"small": "sm",
+		"medium": "med",
+		"large": "lg"
+	    }
+	},
+	{
+	    "id": 2,
+	    "title": "Jet Blue",
 	    "body": "Lorem Ipsum",
 	    "phone": "+1 888 555 1212",
-	    "website": "http://www.example.com",
+	    "website": "http://www.jetblue.com",
+	    "terminal": [1,2,3],
+	    "picture": {
+		"small": "sm",
+		"medium": "med",
+		"large": "lg"
+	    }
+	},
+	{
+	    "id": 3,
+	    "title": "Delta",
+	    "body": "Lorem Ipsum",
+	    "phone": "+1 888 555 1212",
+	    "website": "http://www.delta.com",
+	    "terminal": [1,2,3],
+	    "picture": {
+		"small": "sm",
+		"medium": "med",
+		"large": "lg"
+	    }
+	},
+	{
+	    "id": 3,
+	    "title": "Spirit",
+	    "body": "Lorem Ipsum",
+	    "phone": "+1 888 555 1212",
+	    "website": "http://www.spirit.com",
 	    "terminal": [1,2,3],
 	    "picture": {
 		"small": "sm",
