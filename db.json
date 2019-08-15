@@ -1,6 +1,7 @@
 {
     "users": [
 	{
+	    "id": 0,
 	    "segment": 0,
 	    "profile_image": "",
 	    "display_name": "",
@@ -20,6 +21,7 @@
 	    "triggers": ["trigger1", "trigger3", "trigger5"]
 	},
 	{
+	    "id": 1,
 	    "segment": 1,
 	    "profile_image": "",
 	    "display_name": "",
@@ -39,6 +41,7 @@
 	    "triggers": ["trigger1", "trigger3", "trigger5"]
 	},
 	{
+	    "id": 2,
 	    "segment": 2,
 	    "profile_image": "",
 	    "display_name": "",
@@ -58,6 +61,7 @@
 	    "triggers": ["trigger1", "trigger3", "trigger5"]
 	},
 	{
+	    "id": 3,
 	    "segment": 3,
 	    "profile_image": "",
 	    "display_name": "",
