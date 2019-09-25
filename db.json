@@ -16,7 +16,7 @@
 	    "report_date_from": "08/01/2019",
 	    "report_date_end": "08/15/2019",
 	    "rep_name": "Representative name",
-	    "rep_email": "Representative email",
+	    "rep_email": "rep@twitter.com",
 	    "language": "en",
 	    "triggers": ["trigger1", "trigger3", "trigger5"]
 	},
