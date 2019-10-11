@@ -18,7 +18,8 @@
 	    "rep_name": "",
 	    "rep_email": "",
 	    "language": "en",
-	    "triggers": []
+	    "triggers": [],
+	    "profile": {}
 	},
 	{
 	    "id": 1,
@@ -38,7 +39,11 @@
 	    "rep_name": "Representative name",
 	    "rep_email": "rep@twitter.com",
 	    "language": "en",
-	    "triggers": ["trigger1", "trigger3", "trigger5"]
+	    "triggers": ["trigger1", "trigger3", "trigger5"],
+	    "profile": {
+		"is_business": true,
+		"is_agency": true
+	    }
 	},
 	{
 	    "id": 2,
@@ -58,7 +63,10 @@
 	    "rep_name": "Representative name",
 	    "rep_email": "rep@twitter.com",
 	    "language": "en",
-	    "triggers": ["trigger1", "trigger3", "trigger5"]
+	    "triggers": ["trigger1", "trigger3", "trigger5"],
+	    "profile": {
+		"is_business": true
+	    }
 	},
 	{
 	    "id": 3,
@@ -78,7 +86,8 @@
 	    "rep_name": "",
 	    "rep_email": "",
 	    "language": "en",
-	    "triggers": []
+	    "triggers": [],
+	    "profile": {}
 	},
 	{
 	    "id": 4,
@@ -98,7 +107,12 @@
 	    "rep_name": "",
 	    "rep_email": "",
 	    "language": "en",
-	    "triggers": []
+	    "triggers": [],
+	    "profile": {
+		"is_business": true,
+		"is_agency": false,
+		"is_marketer" : false
+	    }
 	},
 	{
 	    "id": 5,
@@ -118,7 +132,12 @@
 	    "rep_name": "",
 	    "rep_email": "",
 	    "language": "en",
-	    "triggers": []
+	    "triggers": [],
+	    "profile": {
+		"is_business": true,
+		"is_agency": true,
+		"is_marketer" : true
+	    }
 	}
     ]
 }
