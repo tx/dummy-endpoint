@@ -21,9 +21,9 @@
 	    "triggers": [],
 	    "profile": {},
 	    "wtf": [
-		{"candidate_id": "921073565289529346", "score" : 0.0123},
-		{"candidate_id": "1103738801082458112", "score" : 0.1223},
-		{"candidate_id": "2809527011", "score" : 0.2323}
+		{"candidate_id": "921073565289529346", "score" : "0.0123"},
+		{"candidate_id": "1103738801082458112", "score" : "0.1223"},
+		{"candidate_id": "2809527011", "score" : "0.2323"}
 	    ]
 	},
 	{
@@ -50,9 +50,9 @@
 		"is_agency": true
 	    },
 	    "wtf": [
-		{"candidate_id": "921073565289529346", "score" : 0.0123},
-		{"candidate_id": "1103738801082458112", "score" : 0.1223},
-		{"candidate_id": "2809527011", "score" : 0.2323}
+		{"candidate_id": "921073565289529346", "score" : "0.0123"},
+		{"candidate_id": "1103738801082458112", "score" : "0.1223"},
+		{"candidate_id": "2809527011", "score" : "0.2323"}
 	    ],
 	},
 	{
@@ -78,9 +78,9 @@
 		"is_business": true
 	    },
 	    "wtf": [
-		{"candidate_id": "921073565289529346", "score" : 0.0123},
-		{"candidate_id": "1103738801082458112", "score" : 0.1223},
-		{"candidate_id": "2809527011", "score" : 0.2323}
+		{"candidate_id": "921073565289529346", "score" : "0.0123"},
+		{"candidate_id": "1103738801082458112", "score" : "0.1223"},
+		{"candidate_id": "2809527011", "score" : "0.2323"}
 	    ],
 	},
 	{
@@ -104,9 +104,9 @@
 	    "triggers": [],
 	    "profile": {},
 	    "wtf": [
-		{"candidate_id": "921073565289529346", "score" : 0.0123},
-		{"candidate_id": "1103738801082458112", "score" : 0.1223},
-		{"candidate_id": "2809527011", "score" : 0.2323}
+		{"candidate_id": "921073565289529346", "score" : "0.0123"},
+		{"candidate_id": "1103738801082458112", "score" : "0.1223"},
+		{"candidate_id": "2809527011", "score" : "0.2323"}
 	    ],
 	},
 	{
@@ -134,9 +134,9 @@
 		"is_marketer" : false
 	    },
 	    "wtf": [
-		{"candidate_id": "921073565289529346", "score" : 0.0123},
-		{"candidate_id": "1103738801082458112", "score" : 0.1223},
-		{"candidate_id": "2809527011", "score" : 0.2323}
+		{"candidate_id": "921073565289529346", "score" : "0.0123"},
+		{"candidate_id": "1103738801082458112", "score" : "0.1223"},
+		{"candidate_id": "2809527011", "score" : "0.2323"}
 	    ],
 	},
 	{
@@ -164,9 +164,9 @@
 		"is_marketer" : true
 	    },
 	    "wtf": [
-		{"candidate_id": "921073565289529346", "score" : 0.0123},
-		{"candidate_id": "1103738801082458112", "score" : 0.1223},
-		{"candidate_id": "2809527011", "score" : 0.2323}
+		{"candidate_id": "921073565289529346", "score" : "0.0123"},
+		{"candidate_id": "1103738801082458112", "score" : "0.1223"},
+		{"candidate_id": "2809527011", "score" : "0.2323"}
 	    ]
 	}
     ]
