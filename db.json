@@ -19,7 +19,12 @@
 	    "rep_email": "",
 	    "language": "en",
 	    "triggers": [],
-	    "profile": {}
+	    "profile": {},
+	    "wtf": [
+		{"candidate_id": "921073565289529346", "score" : 0.0123},
+		{"candidate_id": "1103738801082458112", "score" : 0.1223},
+		{"candidate_id": "2809527011", "score" : 0.2323}
+	    ]
 	},
 	{
 	    "id": 1,
@@ -44,6 +49,11 @@
 		"is_business": true,
 		"is_agency": true
 	    }
+	    "wtf": [
+		{"candidate_id": "921073565289529346", "score" : 0.0123},
+		{"candidate_id": "1103738801082458112", "score" : 0.1223},
+		{"candidate_id": "2809527011", "score" : 0.2323}
+	    ]
 	},
 	{
 	    "id": 2,
@@ -67,6 +77,11 @@
 	    "profile": {
 		"is_business": true
 	    }
+	    "wtf": [
+		{"candidate_id": "921073565289529346", "score" : 0.0123},
+		{"candidate_id": "1103738801082458112", "score" : 0.1223},
+		{"candidate_id": "2809527011", "score" : 0.2323}
+	    ]
 	},
 	{
 	    "id": 3,
@@ -88,6 +103,11 @@
 	    "language": "en",
 	    "triggers": [],
 	    "profile": {}
+	    "wtf": [
+		{"candidate_id": "921073565289529346", "score" : 0.0123},
+		{"candidate_id": "1103738801082458112", "score" : 0.1223},
+		{"candidate_id": "2809527011", "score" : 0.2323}
+	    ]
 	},
 	{
 	    "id": 4,
@@ -113,6 +133,11 @@
 		"is_agency": false,
 		"is_marketer" : false
 	    }
+	    "wtf": [
+		{"candidate_id": "921073565289529346", "score" : 0.0123},
+		{"candidate_id": "1103738801082458112", "score" : 0.1223},
+		{"candidate_id": "2809527011", "score" : 0.2323}
+	    ]
 	},
 	{
 	    "id": 5,
@@ -138,6 +163,11 @@
 		"is_agency": true,
 		"is_marketer" : true
 	    }
+	    "wtf": [
+		{"candidate_id": "921073565289529346", "score" : 0.0123},
+		{"candidate_id": "1103738801082458112", "score" : 0.1223},
+		{"candidate_id": "2809527011", "score" : 0.2323}
+	    ]
 	}
     ]
 }
