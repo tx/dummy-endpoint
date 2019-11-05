@@ -21,10 +21,10 @@
 	    "language": "en",
 	    "triggers": [],
 	    "profile": {},
-	    "whoToFollow": [
-		{"candidate_id": "921073565289529346", "score" : "0.0123"},
-		{"candidate_id": "1103738801082458112", "score" : "0.1223"},
-		{"candidate_id": "2809527011", "score" : "0.2323"}
+	    "wtf": [
+		{"candidate_id": "921073565289529346", "score" : "0.0123", "user_handle": "HDSFTester1", "profile_image": "https:\/\/pbs.twimg.com\/profile_images\/921075559068659719\/MiUkj0_i_normal.jpg", "name": "HDSFTester"},
+		{"candidate_id": "1103738801082458112", "score" : "0.1223", "user_handle": "morganlowtech", "profile_image": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png", "name": "Morgan"},
+		{"candidate_id": "2809527011", "score" : "0.2323", "user_handle": "sharetche", "profile_image": "https:\/\/pbs.twimg.com\/profile_images\/988647971393748992\/ULRm9XBQ_normal.jpg", "name": "Santiago Haretche"}
 	    ]
 	},
 	{
@@ -51,10 +51,10 @@
 		"is_business": true,
 		"is_agency": true
 	    },
-	    "whoToFollow": [
-		{"candidate_id": "921073565289529346", "score" : "0.0123"},
-		{"candidate_id": "1103738801082458112", "score" : "0.1223"},
-		{"candidate_id": "2809527011", "score" : "0.2323"}
+	    "wtf": [
+		{"candidate_id": "921073565289529346", "score" : "0.0123", "user_handle": "HDSFTester1", "profile_image": "https:\/\/pbs.twimg.com\/profile_images\/921075559068659719\/MiUkj0_i_normal.jpg", "name": "HDSFTester"},
+		{"candidate_id": "1103738801082458112", "score" : "0.1223", "user_handle": "morganlowtech", "profile_image": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png", "name": "Morgan"},
+		{"candidate_id": "2809527011", "score" : "0.2323", "user_handle": "sharetche", "profile_image": "https:\/\/pbs.twimg.com\/profile_images\/988647971393748992\/ULRm9XBQ_normal.jpg", "name": "Santiago Haretche"}
 	    ]
 	},
 	{
@@ -80,10 +80,10 @@
 	    "profile": {
 		"is_business": true
 	    },
-	    "whoToFollow": [
-		{"candidate_id": "921073565289529346", "score" : "0.0123"},
-		{"candidate_id": "1103738801082458112", "score" : "0.1223"},
-		{"candidate_id": "2809527011", "score" : "0.2323"}
+	    "wtf": [
+		{"candidate_id": "921073565289529346", "score" : "0.0123", "user_handle": "HDSFTester1", "profile_image": "https:\/\/pbs.twimg.com\/profile_images\/921075559068659719\/MiUkj0_i_normal.jpg", "name": "HDSFTester"},
+		{"candidate_id": "1103738801082458112", "score" : "0.1223", "user_handle": "morganlowtech", "profile_image": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png", "name": "Morgan"},
+		{"candidate_id": "2809527011", "score" : "0.2323", "user_handle": "sharetche", "profile_image": "https:\/\/pbs.twimg.com\/profile_images\/988647971393748992\/ULRm9XBQ_normal.jpg", "name": "Santiago Haretche"}
 	    ]
 	},
 	{
@@ -107,10 +107,10 @@
 	    "language": "en",
 	    "triggers": [],
 	    "profile": {},
-	    "whoToFollow": [
-		{"candidate_id": "921073565289529346", "score" : "0.0123"},
-		{"candidate_id": "1103738801082458112", "score" : "0.1223"},
-		{"candidate_id": "2809527011", "score" : "0.2323"}
+	    "wtf": [
+		{"candidate_id": "921073565289529346", "score" : "0.0123", "user_handle": "HDSFTester1", "profile_image": "https:\/\/pbs.twimg.com\/profile_images\/921075559068659719\/MiUkj0_i_normal.jpg", "name": "HDSFTester"},
+		{"candidate_id": "1103738801082458112", "score" : "0.1223", "user_handle": "morganlowtech", "profile_image": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png", "name": "Morgan"},
+		{"candidate_id": "2809527011", "score" : "0.2323", "user_handle": "sharetche", "profile_image": "https:\/\/pbs.twimg.com\/profile_images\/988647971393748992\/ULRm9XBQ_normal.jpg", "name": "Santiago Haretche"}
 	    ]
 	},
 	{
@@ -138,10 +138,10 @@
 		"is_agency": false,
 		"is_marketer" : false
 	    },
-	    "whoToFollow": [
-		{"candidate_id": "921073565289529346", "score" : "0.0123"},
-		{"candidate_id": "1103738801082458112", "score" : "0.1223"},
-		{"candidate_id": "2809527011", "score" : "0.2323"}
+	    "wtf": [
+		{"candidate_id": "921073565289529346", "score" : "0.0123", "user_handle": "HDSFTester1", "profile_image": "https:\/\/pbs.twimg.com\/profile_images\/921075559068659719\/MiUkj0_i_normal.jpg", "name": "HDSFTester"},
+		{"candidate_id": "1103738801082458112", "score" : "0.1223", "user_handle": "morganlowtech", "profile_image": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png", "name": "Morgan"},
+		{"candidate_id": "2809527011", "score" : "0.2323", "user_handle": "sharetche", "profile_image": "https:\/\/pbs.twimg.com\/profile_images\/988647971393748992\/ULRm9XBQ_normal.jpg", "name": "Santiago Haretche"}
 	    ]
 	},
 	{
@@ -169,10 +169,10 @@
 		"is_agency": true,
 		"is_marketer" : true
 	    },
-	    "whoToFollow": [
-		{"candidate_id": "921073565289529346", "score" : "0.0123"},
-		{"candidate_id": "1103738801082458112", "score" : "0.1223"},
-		{"candidate_id": "2809527011", "score" : "0.2323"}
+	    "wtf": [
+		{"candidate_id": "921073565289529346", "score" : "0.0123", "user_handle": "HDSFTester1", "profile_image": "https:\/\/pbs.twimg.com\/profile_images\/921075559068659719\/MiUkj0_i_normal.jpg", "name": "HDSFTester"},
+		{"candidate_id": "1103738801082458112", "score" : "0.1223", "user_handle": "morganlowtech", "profile_image": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png", "name": "Morgan"},
+		{"candidate_id": "2809527011", "score" : "0.2323", "user_handle": "sharetche", "profile_image": "https:\/\/pbs.twimg.com\/profile_images\/988647971393748992\/ULRm9XBQ_normal.jpg", "name": "Santiago Haretche"}
 	    ]
 	}
     ]
